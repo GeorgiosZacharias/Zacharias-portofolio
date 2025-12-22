@@ -1,16 +1,43 @@
-# React + Vite
+📌 Zacharias Portfolio – Personal React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains my personal portfolio website, which I built using React and Vite. The portfolio showcases my projects, skills, and professional profile as a web developer.
 
-Currently, two official plugins are available:
+💻 What the Website Does
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+My portfolio website serves as a central showcase of my work and abilities. It includes:
 
-## React Compiler
+About Me section with a summary of who I am and what I do
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Projects section displaying my key applications and repositories
 
-## Expanding the ESLint configuration
+Skills section highlighting the technologies I use
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Contact or social links so visitors can connect with me
+
+The site is designed to introduce myself to potential employers or collaborators and demonstrate real examples of what I can build with React.
+
+🛠️ Technologies Used
+
+I built this portfolio using:
+
+React for building the user interface
+
+Vite as the development and build tool
+
+CSS for styling
+
+🚀 Development & Deployment
+
+I set up the project using Vite to Create a React application
+
+I structured it to be modular and easy to update with new projects or content
+
+The portfolio can be deployed to platforms  GitHub Pages.
+
+🎯 Purpose of the Project
+
+I created this portfolio to:
+
+Provide a public space to present my work and experience
+
+Give recruiters and collaborators a place to learn about me and explore my projects
